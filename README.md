@@ -1,2 +1,1 @@
-# Image_Uploader
-hii  I an harsh agrawal  I create a Image-Uploader Website Using Python with Django .In this Project User upload the image store the image in current repository 
+Hi, I am Harsh Agrawal. I have created an Image Uploader website using Python and Django. In this project, users can upload images, which are then stored in the current repository.
