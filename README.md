@@ -1,1 +1,0 @@
-Hi, I am Harsh Agrawal. I have created an Image Uploader website using Python and Django. In this project, users can upload images, which are then stored in the current repository.
